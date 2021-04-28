@@ -34,7 +34,7 @@
     "ip": "^0.3.2",
     "juicer": "^0.6.6-stable",
     "mime-types": "2.1.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.1",
     "nedb": "^1.8.0",
     "node-cache": "^5.1.0",
     "node-easy-cert": "^1.0.0",
