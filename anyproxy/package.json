@@ -43,7 +43,7 @@
     "clipboard-js": "^0.3.3",
     "co": "^4.6.0",
     "colorful": "^2.1.0",
-    "commander": "~2.11.0",
+    "commander": "~2.20.3",
     "component-emitter": "^1.2.1",
     "compression": "^1.4.4",
     "es6-promise": "^3.3.1",
