@@ -50,7 +50,7 @@
     "express": "^4.8.5",
     "fast-json-stringify": "^0.17.0",
     "iconv-lite": "^0.4.6",
-    "inquirer": "^5.2.0",
+    "inquirer": "^7.0.5",
     "ip": "^0.3.2",
     "juicer": "^0.6.6-stable",
     "mime-types": "2.1.11",
