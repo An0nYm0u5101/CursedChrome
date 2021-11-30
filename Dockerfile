@@ -1,4 +1,4 @@
-FROM node:12.16.2-stretch
+FROM node:12.22.6-stretch
 
 RUN mkdir /work/
 WORKDIR /work/
